@@ -68,15 +68,11 @@ These visualizations help in understanding the information the rule-based agent 
 ├── bird.py         # Defines the Bird class (player character)
 ├── birdjump.png    # Image for the bird when jumping
 ├── birdnormal.png  # Image for the bird in normal state
-├── main.py         # Main game loop, initializes game objects, handles events, and contains AI logic
-├── __pycache__/    # Python bytecode cache
-├── .git/           # Git repository files
-├── .idea/          # PyCharm project files
-└── .venv/          # Python virtual environment
+└── main.py         # Main game loop, initializes game objects, handles events, and contains AI logic
 ```
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements, bug fixes, or new features (e.g., implementing a true learning AI), please feel free to open an issue or submit a pull request.
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the GNU License.
