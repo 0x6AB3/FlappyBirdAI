@@ -1,3 +1,5 @@
+Demo available at: https://www.youtube.com/watch?v=NPKkDU5gznk
+
 # Flappy Bird AI
 
 A classic Flappy Bird game implemented in Python using Pygame, featuring a simple rule-based AI agent that attempts to play the game.
@@ -75,4 +77,4 @@ These visualizations help in understanding the information the rule-based agent 
 Contributions are welcome! If you have suggestions for improvements, bug fixes, or new features (e.g., implementing a true learning AI), please feel free to open an issue or submit a pull request.
 
 ## License
-This project is open-source and available under the GNU License.
+This project is open-source and available under the GPL-2.0 License.
